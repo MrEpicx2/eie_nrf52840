@@ -1,0 +1,8 @@
+git commit
+git branch
+git checkout - Switch branches or restore working tree files
+git pull
+git push
+git merge - Join two or more development histories together
+git rebase - Reapply commits on top of another base tip
+git fetch
